@@ -1,0 +1,11 @@
+{
+  "translation": {
+    "signIn": {
+        "title": "Sign In",
+        "login": "Login",
+        "forgotPassword": "Forgot Password?",
+        "signUp": "Sign Up",
+        "haveAccount": "Don't have an account?"
+    }
+  }
+}
